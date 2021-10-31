@@ -17,7 +17,7 @@ function Api() {
 
 		fetchApi();
 	}, [search]);
-
+	console.log(city);
 	return (
 		<div>
 			<input

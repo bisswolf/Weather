@@ -23,8 +23,8 @@ body {
 		sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-image: url("./assests/blue.jpg");
-
+	/* background-image: url("./assests/blue.jpg"); */
+	background-color: #ebebeb;
 	position: relative;
 	background-repeat: no-repeat;
 }
